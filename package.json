@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "chai": "~1.9.1",
+    "split": "~0.3.0"
+  },
+  "dependencies": {
+    "big.js": "~2.5.1",
+    "q": "^1.4.1",
+    "through": "~2.3.4"
+  }
+}
